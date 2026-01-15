@@ -19,7 +19,7 @@ Netflix Movies and TV Shows dataset
 ## Deliverables
 - Raw_Data.xlsx.csv
 - Cleaned_dataset.xlsx
-- cleaned_dataset.csv
+- Cleaned_dataset.csv
 
 ## Outcome
 The dataset is now clean, standardized, and ready for further analysis.
